@@ -3,12 +3,13 @@
 <p>Ứng dụng Deeplearning trong xử lý âm thanh ứng dụng trong các thiết bị hỗ trợ giọng nói như Alexa,Siri,Google Home</p>
 <img src="images/sound.png">
 <h1>Mục tiêu bài toán :</h1>
-<p>Phát hiện từ khóa activate trog 1 audio bất kì</p>
+<p>Phát hiện từ khóa activate trong 1 audio bất kì</p>
 <h1>Xử lí dữ liệu :</h1>
 <p>Chuỗi Fourier</p>
 <img src="images/spectrogram.png" alt="">
 <h1>Mô hình sử dụng :</h1>
 <p>Áp dụng mô hình RNN áp dụng các lớp nâng cao như GRU hoặc LSTM</p>
+<img src="images/model.png" alt="">
 <h1>Hướng dẫn chạy chương trình:</h1>
 <p>Chạy chương trình chính bằng main.ipnb</p>
 <h1>Dữ liệu :</h1>
