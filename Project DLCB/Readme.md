@@ -15,7 +15,7 @@
 <h1>Dữ liệu :</h1>
 <ul>
 	<li>Tập train nằm trong mục XY_train gồm 25 audio 10 giây gồm các từ khóa activate và các từ nhiễu </li>
-	<li>Tập test nằm trong mục XY_dev gồm 25 audio 10 giây</li>
+	<li>Tập test nằm trong mục XY_dev gồm 5 audio 10 giây</li>
 	<li>Ví dụ dữ liệu :vinh2.wav</li>
 </ul>
 <h1>Output :</h1>
