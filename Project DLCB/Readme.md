@@ -1,4 +1,5 @@
 <h1>TRIGGER WORD DETECTION</h1>
+<h2>Lê Thành Vinh</h2>
 <p>Ứng dụng Deeplearning trong xử lý âm thanh ứng dụng trong các thiết bị hỗ trợ giọng nói như Alexa,Siri,Google Home</p>
 <img src="images/sound.png">
 <h1>Mục tiêu bài toán :</h1>
@@ -19,13 +20,13 @@
 <h1>Output :</h1>
 <ul>
 	<li>Audio sau khi đã được đánh dấu bằng tiếng beep sau từ khóa</li>
-	<li>testchime_output.wav</li>
+	<li>Ví dụ output testchime_output.wav</li>
 </ul>
 <h1>Đánh giá độ chính xác :</h1>
 <p>Model cho kết quả khá tốt với tập train độ chính xác là 97% tập test là 92%</p>
 <h1>Ứng dụng thực tiễn muốn phát triển :</h1>
 <ul>
-	<li>Phát hiện các từ ngữ phản cảm và chèn kí tự nhiễu trong audio và video </li>
+	<li>Phát hiện các từ ngữ phản cảm và chèn âm thanh nhiễu trong audio và video </li>
 </ul>
 
 
