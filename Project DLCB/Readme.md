@@ -8,6 +8,8 @@
 <img src="images/spectrogram.png" alt="">
 <h1>Mô hình sử dụng :</h1>
 <p>Áp dụng mô hình RNN áp dụng các lớp nâng cao như GRU hoặc LSTM</p>
+<h1>Hướng dẫn chạy chương trình:</h1>
+<p>Chạy chương trình chính bằng main.ipnb</p>
 <h1>Dữ liệu :</h1>
 <ul>
 	<li>Tập train nằm trong mục XY_train gồm 25 audio 10 giây gồm các từ khóa activate và các từ nhiễu </li>
