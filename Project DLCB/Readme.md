@@ -6,7 +6,7 @@
 <img src="images/sound.png">
 <h1>Mục tiêu bài toán :</h1>
 <ul>
-	<li>Phát hiện từ khóa <span style="color: red">activate</span> trong 1 audio bất kì</li>
+	<li>Phát hiện từ khóa <span style="color: red;">activate</span> trong 1 audio bất kì</li>
 </ul>
 <h1>Xử lí dữ liệu :</h1>
 <ul>
