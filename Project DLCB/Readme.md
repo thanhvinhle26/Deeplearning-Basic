@@ -6,6 +6,7 @@
 <p>Phát hiện từ khóa activate trong 1 audio bất kì</p>
 <h1>Xử lí dữ liệu :</h1>
 <p>Chuỗi Fourier</p>
+<p>Phần tiền xử lý trong td_utils.py</p>
 <img src="images/spectrogram.png" alt="">
 <h1>Mô hình sử dụng :</h1>
 <p>Áp dụng mô hình RNN áp dụng các lớp nâng cao như GRU hoặc LSTM</p>
